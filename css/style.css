@@ -1,0 +1,13 @@
+.panda-bg-info {
+    background-color: #fceae8;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.panda-buy-now,
+.panda-buy-now:hover {
+    color: #fff;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+}
